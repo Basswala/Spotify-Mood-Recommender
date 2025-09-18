@@ -2,7 +2,6 @@
 
 A machine learning project that clusters songs by **mood** using Spotify audio features.  
 The goal is to recommend tracks with a similar vibe, based on features like energy, valence, danceability, and tempo.  
-Built with a clean, reproducible structure — ready for portfolio presentation.
 
 ---
 
